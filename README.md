@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @001ckk
+- 👋 Hi, I’m Christopher Kimani
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data science 
